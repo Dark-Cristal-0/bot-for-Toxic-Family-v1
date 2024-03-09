@@ -1,0 +1,292 @@
+{
+  "tag": "#2CL902GJ0",
+  "name": "Toxic Royalty",
+  "description": "<c7CFC00>Toxic Imperium</c> | TG: @ToxicImp <c7CFC00>43.000+</c> | ТG Club: @sai_ken",
+  "type": "inviteOnly",
+  "badgeId": 8000012,
+  "requiredTrophies": 35000,
+  "trophies": 1228321,
+  "members": [
+    {
+      "tag": "#90VJRRCCL",
+      "name": "Diamon4ik",
+      "nameColor": "0xff4ddba2",
+      "role": "senior",
+      "trophies": 54740,
+      "icon": {
+        "id": 28000330
+      }
+    },
+    {
+      "tag": "#UQV00Y2J",
+      "name": "сарвар 007",
+      "nameColor": "0xffcb5aff",
+      "role": "senior",
+      "trophies": 54706,
+      "icon": {
+        "id": 28000014
+      }
+    },
+    {
+      "tag": "#2RQ9LGRJ",
+      "name": "😈MORT¥$😈™",
+      "nameColor": "0xffffffff",
+      "role": "vicePresident",
+      "trophies": 49876,
+      "icon": {
+        "id": 28000387
+      }
+    },
+    {
+      "tag": "#9R2UR2GQ2",
+      "name": "МАМА",
+      "nameColor": "0xffcb5aff",
+      "role": "senior",
+      "trophies": 49000,
+      "icon": {
+        "id": 28000107
+      }
+    },
+    {
+      "tag": "#8GL9PCCL0",
+      "name": "mr. МАКАРОШЕК",
+      "nameColor": "0xfff9775d",
+      "role": "senior",
+      "trophies": 48610,
+      "icon": {
+        "id": 28000044
+      }
+    },
+    {
+      "tag": "#2URVVVYQV",
+      "name": "[ICE] Sayat",
+      "nameColor": "0xff4ddba2",
+      "role": "president",
+      "trophies": 48067,
+      "icon": {
+        "id": 28000023
+      }
+    },
+    {
+      "tag": "#88VUUP88G",
+      "name": "damn",
+      "nameColor": "0xffffffff",
+      "role": "senior",
+      "trophies": 47367,
+      "icon": {
+        "id": 28000056
+      }
+    },
+    {
+      "tag": "#9C89LPJGU",
+      "name": "crow is leon",
+      "nameColor": "0xfff05637",
+      "role": "senior",
+      "trophies": 47290,
+      "icon": {
+        "id": 28000023
+      }
+    },
+    {
+      "tag": "#9C9PVJJC0",
+      "name": "BT|⚡ɮօօʍɛʀǟռɢツ",
+      "nameColor": "0xffcb5aff",
+      "role": "vicePresident",
+      "trophies": 45385,
+      "icon": {
+        "id": 28000014
+      }
+    },
+    {
+      "tag": "#P2Q9QYRP0",
+      "name": "LoliPop🍭",
+      "nameColor": "0xffffffff",
+      "role": "senior",
+      "trophies": 44642,
+      "icon": {
+        "id": 28000380
+      }
+    },
+    {
+      "tag": "#PCYC8RJQP",
+      "name": "Ворон Леон",
+      "nameColor": "0xff4ddba2",
+      "role": "senior",
+      "trophies": 44549,
+      "icon": {
+        "id": 28000123
+      }
+    },
+    {
+      "tag": "#9LG22LCR",
+      "name": "Jager",
+      "nameColor": "0xff4ddba2",
+      "role": "senior",
+      "trophies": 44422,
+      "icon": {
+        "id": 28000038
+      }
+    },
+    {
+      "tag": "#P2CQY8R08",
+      "name": "NaVi | Charm1ng",
+      "nameColor": "0xff4ddba2",
+      "role": "senior",
+      "trophies": 44253,
+      "icon": {
+        "id": 28000031
+      }
+    },
+    {
+      "tag": "#9GY9C8CC0",
+      "name": "илка",
+      "nameColor": "0xffff8afb",
+      "role": "senior",
+      "trophies": 43963,
+      "icon": {
+        "id": 28000023
+      }
+    },
+    {
+      "tag": "#8CVRU0QYY",
+      "name": "me.ᴼᵖDeclasS⛩️",
+      "nameColor": "0xfff9c908",
+      "role": "senior",
+      "trophies": 42834,
+      "icon": {
+        "id": 28000018
+      }
+    },
+    {
+      "tag": "#Y2YU2GLLL",
+      "name": "Одиночество",
+      "nameColor": "0xffa2e3fe",
+      "role": "senior",
+      "trophies": 42478,
+      "icon": {
+        "id": 28000335
+      }
+    },
+    {
+      "tag": "#8GPL8PJ88",
+      "name": "moonly",
+      "nameColor": "0xffffffff",
+      "role": "senior",
+      "trophies": 41759,
+      "icon": {
+        "id": 28000139
+      }
+    },
+    {
+      "tag": "#YLGYGURC8",
+      "name": "Malal",
+      "nameColor": "0xffff8afb",
+      "role": "senior",
+      "trophies": 41621,
+      "icon": {
+        "id": 28000317
+      }
+    },
+    {
+      "tag": "#8QJRRV2RP",
+      "name": "absolyteе́💞?",
+      "nameColor": "0xffcb5aff",
+      "role": "senior",
+      "trophies": 41482,
+      "icon": {
+        "id": 28000332
+      }
+    },
+    {
+      "tag": "#8J0LCPYLJ",
+      "name": "GGG",
+      "nameColor": "0xffcb5aff",
+      "role": "senior",
+      "trophies": 41317,
+      "icon": {
+        "id": 28000290
+      }
+    },
+    {
+      "tag": "#98VC99UCV",
+      "name": "ночные дьяволы",
+      "nameColor": "0xffffffff",
+      "role": "senior",
+      "trophies": 40799,
+      "icon": {
+        "id": 28000347
+      }
+    },
+    {
+      "tag": "#2GG9RY2GQ",
+      "name": "[ММА] erka aaaa",
+      "nameColor": "0xff1ba5f5",
+      "role": "senior",
+      "trophies": 40744,
+      "icon": {
+        "id": 28000168
+      }
+    },
+    {
+      "tag": "#P2LPYJJQQ",
+      "name": "SAMURAI",
+      "nameColor": "0xffcb5aff",
+      "role": "senior",
+      "trophies": 40596,
+      "icon": {
+        "id": 28000352
+      }
+    },
+    {
+      "tag": "#88UQL0GQP",
+      "name": "WS|Karma",
+      "nameColor": "0xfff9c908",
+      "role": "vicePresident",
+      "trophies": 40397,
+      "icon": {
+        "id": 28000335
+      }
+    },
+    {
+      "tag": "#88982UGVL",
+      "name": "BS|🎑ASHOTIK🎆",
+      "nameColor": "0xfff9c908",
+      "role": "senior",
+      "trophies": 40199,
+      "icon": {
+        "id": 28000244
+      }
+    },
+    {
+      "tag": "#C8RGU8RP",
+      "name": "Svdent❤️",
+      "nameColor": "0xffffffff",
+      "role": "vicePresident",
+      "trophies": 39056,
+      "icon": {
+        "id": 28000000
+      }
+    },
+    {
+      "tag": "#9PYJPGY98",
+      "name": "VX|Greys",
+      "nameColor": "0xfff9c908",
+      "role": "vicePresident",
+      "trophies": 34501,
+      "icon": {
+        "id": 28000180
+      }
+    },
+    {
+      "tag": "#9UL008LR0",
+      "name": "[ADP]NOXCHI",
+      "nameColor": "0xffffffff",
+      "role": "senior",
+      "trophies": 33668,
+      "icon": {
+        "id": 28000018
+      }
+    }
+  ],
+  "lastFetch": 1706831151598
+}

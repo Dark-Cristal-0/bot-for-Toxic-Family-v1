@@ -1,0 +1,13 @@
+[
+  {
+    "name":"root",
+    "password":"",
+    "access":{
+      "Admin_List":true,
+      "Clan_List":true,
+      "New_Admin":true,
+      "Admin_Data":true,
+      "fetch_Time":true
+    }
+  }
+]
